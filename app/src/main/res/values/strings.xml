@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practico4moviles</string>
+    <string name="profile_picture" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="email_labels">
+        <item>Personal</item>
+        <item>Trabajo</item>
+        <item>Otro</item>
+    </string-array>
+
+</resources>
